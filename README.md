@@ -22,12 +22,12 @@ As seguintes extensões do Visual Studio Code deverão estar instaladas:
 * `Criar o seguinte container Docker: docker run -d -p 1521:1521 -p 8080:8080 wnameless/oracle-xe-11g-r2`
 
 ## Instalação driver JDBC Oracle
-* `Fazer o download e instalação do seguinte driver JDBC: https://github.com/norberto-enomoto/workshop-springdatajpa-multitenancy`
+* `Fazer o download e instalação do seguinte driver JDBC - ojdbc7.jar`
 * `mvn install:install-file -Dfile="ojdbc7.jar" -DgroupId="com.oracle" -DartifactId="ojdbc7" -Dversion="12.1.0" -Dpackaging=jar`
 
-## Instalação Maven
+## Instalação do Maven
 
-* `https://maven.apache.org/download.cgi -> Instalar a versão 3.6.3`
+* https://maven.apache.org/download.cgi -> Instalar a versão 3.6.3</br>
 * Caso esteja utilizando Windows vc poderá fazer a instalação do Maven via Chocolatey (Package Manager para Windows):</br>
 •	https://chocolatey.org/</br>
 •	https://chocolatey.org/packages/maven</br>
