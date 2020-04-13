@@ -39,4 +39,15 @@ As seguintes extensões do Visual Studio Code deverão estar instaladas:
 * `username: system`
 * `password: oracle`
 
+## Criar 2 usuários no Oracle Database
+```
+CREATE USER tenant1 IDENTIFIED BY 123456;
+GRANT CONNECT,RESOURCE,DBA TO tenant1;
+GRANT UNLIMITED TABLESPACE TO tenant1;
+
+CREATE USER tenant2 IDENTIFIED BY 123456;
+GRANT CONNECT,RESOURCE,DBA TO tenant2;
+GRANT UNLIMITED TABLESPACE TO tenant2;
+```
+
 
