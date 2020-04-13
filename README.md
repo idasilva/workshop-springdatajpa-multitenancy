@@ -1,7 +1,7 @@
 ﻿# Workshop Spring Data JPA | Multitenancy
 
 ## Instalação JDK 8
-* `https://www.oracle.com/java/technologies/javase-jdk8-downloads.html`
+* https://www.oracle.com/java/technologies/javase-jdk8-downloads.html</br>
 
 ## Extensões do VS Code:
 As seguintes extensões do Visual Studio Code deverão estar instaladas:
