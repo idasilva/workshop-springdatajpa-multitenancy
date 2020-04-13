@@ -12,7 +12,6 @@ As seguintes extensões do Visual Studio Code deverão estar instaladas:
 * `Java Extension Pack (Microsoft)`
 * `Java Dependency Viewer (Microsoft)`
 * `Spring Boot Extension Pack (Pivotal)`
-* `Spring Boot Dashboard (Microsoft)`
 * `Lombok Annotations Support`
 * `REST Client`
 
