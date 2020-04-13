@@ -1,6 +1,9 @@
-﻿# workshop-springdatajpa-multitenancy 
+﻿# Workshop Spring Data JPA | Multitenancy
 
-## Pré Requisitos:
+## Instalação JDK 8
+* `https://www.oracle.com/java/technologies/javase-jdk8-downloads.html`
+
+## Extensões do VS Code:
 As seguintes extensões do Visual Studio Code deverão estar instaladas:
 * `Maven for Java (Microsoft)`
 * `Debugger for Java (Microsoft)`
